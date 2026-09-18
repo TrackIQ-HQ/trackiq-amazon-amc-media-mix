@@ -1,0 +1,10 @@
+{
+  "name": "trackiq-amazon-amc-media-mix",
+  "version": "1.0.0",
+  "description": "TrackIQ: Amazon AMC Media Mix \u2014 an Agent Skill that builds a twelve-slide Amazon Marketing Cloud path-to-purchase and media mix deck from TrackIQ MCP data.",
+  "author": { "name": "TrackIQ", "url": "https://trackiq.com" },
+  "homepage": "https://trackiq.com/skills/trackiq-amazon-amc-media-mix",
+  "repository": "https://github.com/TrackIQ-HQ/trackiq-amazon-amc-media-mix",
+  "license": "MIT",
+  "keywords": ["amazon", "amazon-ads", "amc", "amazon-marketing-cloud", "amazon-dsp", "media-mix", "path-to-purchase", "attribution", "new-to-brand", "incrementality", "claude-skill", "agent-skills", "trackiq"]
+}
