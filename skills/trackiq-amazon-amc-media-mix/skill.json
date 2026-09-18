@@ -1,18 +1,34 @@
 {
   "name": "trackiq-amazon-amc-media-mix",
   "title": "TrackIQ: Amazon AMC Media Mix",
+  "category": "advertising",
   "version": "1.0.0",
   "updated": "2026-09-18",
   "summary": "A twelve-slide Amazon Marketing Cloud deck arguing one case \u2014 where the budget goes versus where new customers come from. Attribution paths, what DSP is worth alone versus in a path, cost per new customer by channel, time to purchase, and one reallocation with the arithmetic shown.",
   "changelog": "First public release.",
   "requires": {
-    "mcp": ["trackiq"],
-    "tools": ["list_marketplaces", "get_amc_attribution_paths", "get_amc_ntb_purchases", "get_amc_time_to_conversion", "get_account_overview", "get_dsp_performance"],
+    "mcp": [
+      "trackiq"
+    ],
+    "tools": [
+      "list_marketplaces",
+      "get_amc_attribution_paths",
+      "get_amc_ntb_purchases",
+      "get_amc_time_to_conversion",
+      "get_account_overview",
+      "get_dsp_performance"
+    ],
     "filesystem": false,
     "network": false
   },
   "delivery": {
-    "methods": ["in-chat", "file", "slack", "n8n", "email"],
+    "methods": [
+      "in-chat",
+      "file",
+      "slack",
+      "n8n",
+      "email"
+    ],
     "default": "in-chat",
     "note": "in-chat always works and is the fallback. file needs a filesystem, n8n needs network, slack and email need their tool connected. Outward sends confirm first."
   },
