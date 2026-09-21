@@ -127,7 +127,7 @@ worth it". It is the wrong artifact for "what happened yesterday".
 
 ## Version
 
-`trackiq-amazon-amc-media-mix` v1.0.0 (2026-09-17).
+`trackiq-amazon-amc-media-mix` v1.0.1 (2026-09-21).
 
 If the user asks whether this skill is current, fetch
 `https://trackiq.com/skills/registry.json`, compare the `version` field for
