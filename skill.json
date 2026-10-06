@@ -2,8 +2,8 @@
   "name": "trackiq-amazon-amc-media-mix",
   "title": "TrackIQ: Amazon AMC Media Mix",
   "category": "amc",
-  "version": "1.0.1",
-  "updated": "2026-09-21",
+  "version": "1.0.2",
+  "updated": "2026-10-06",
   "summary": "A twelve-slide Amazon Marketing Cloud deck arguing one case \u2014 where the budget goes versus where new customers come from. Attribution paths, what DSP is worth alone versus in a path, cost per new customer by channel, time to purchase, and one reallocation with the arithmetic shown.",
   "changelog": "Moves to the new Amazon AMC & DSP category. No change to what the skill does.",
   "requires": {
