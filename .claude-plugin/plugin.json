@@ -23,5 +23,6 @@
     "claude-skill",
     "agent-skills",
     "trackiq"
-  ]
+  ],
+  "skills": "."
 }
